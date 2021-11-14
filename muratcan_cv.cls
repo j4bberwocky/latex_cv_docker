@@ -51,7 +51,8 @@
 % can makebox also be used?
 \newcommand\headerview{
 \begin{minipage}{0.25\linewidth}
-    \profpic{0.22}{images/profilepicture}
+    %\profpic{0.22}{images/profilepicture}
+    \profpic{0.22}{images/profile}
 \end{minipage}% 
 \hfill
 \begin{minipage}{0.45\linewidth}
